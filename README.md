@@ -48,4 +48,4 @@ Sales patterns fluctuate across days and months
 Customer ratings provide insight into product satisfaction
 ### Dashboard Preview
 
-(Add your screenshot here)
+(https://github.com/abhay03purohit/Mobile-Sales-Dashboard/blob/main/Mobile%20Sales%20Dashboard%20Screenshort.png)
