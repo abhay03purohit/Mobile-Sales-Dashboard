@@ -1,46 +1,51 @@
-📊 Mobile Sales Dashboard (Power BI)
-📌 Overview
+# Mobile Sales Dashboard (Power BI)
+### Project Overview
 
-This project presents an interactive Mobile Sales Dashboard built using Power BI with Excel as the data source. It provides insights into sales performance, customer behavior, and product trends across different regions, brands, and time periods.
+The Mobile Sales Dashboard is an interactive business intelligence solution built using Power BI with Excel as the data source. It analyzes mobile sales performance, customer behavior, and transaction trends across multiple dimensions such as brand, city, and time.
 
-🚀 Features
-📈 KPI Tracking: Total Sales (29M), Total Quantity (711), Transactions (138), Avg Price (41K)
-📊 Dynamic Visualizations:
-Sales by Brand and Mobile Model
-Sales Trends by Day and Month
+### Objectives
+Monitor key sales KPIs
+Analyze product and brand performance
+Understand customer purchasing behavior
+Identify trends in sales and transactions
+Enable data-driven business decisions
+### Key Features
+KPI Metrics:
+Total Sales: 29M
+Total Quantity: 711
+Total Transactions: 138
+Average Price: 41K
+Interactive Visualizations:
+Sales by Brand
+Sales by Mobile Model
+Sales Trends by Day & Month
 Payment Method Distribution
 Customer Ratings Analysis
-🗺️ Geographical Insights: Sales distribution across cities in India
-🎛️ Interactive Filters:
+Geographical Analysis:
+City-wise sales distribution using map visualization
+Dynamic Filters (Slicers):
 Brand
 Payment Method
 Day Name
-Monthly Selection
-🛠️ Tools & Technologies
-Power BI – Data visualization & dashboard creation
-Microsoft Excel – Data cleaning and preprocessing
-📂 Dataset
+Month Selection
+### Tools & Technologies Used
+Power BI – Dashboard development and data visualization
+Microsoft Excel – Data storage and preprocessing
+### Dataset Description
 
-The dataset includes:
+The dataset contains the following fields:
 
-Mobile brand & model
-Sales amount and quantity
-Customer details (age, ratings)
-Payment methods
-Transaction dates and locations
-📷 Dashboard Preview
-<img width="100%" alt="Dashboard Preview"https://github.com/abhay03purohit/Mobile-Sales-Dashboard/blob/main/Mobile%20Sales%20Dashboard%20Screenshort.png" />
-📊 Key Insights
-Identified top-performing brands and mobile models
-Analyzed customer purchasing patterns across different cities
-Observed payment method preferences (UPI, cards, cash)
-Tracked daily and monthly sales trends for better forecasting
-💡 Use Cases
-Business performance tracking
-Sales trend analysis
-Customer behavior insights
-Data-driven decision-making
-📎 How to Use
-Download the .pbix file from this repository
-Open it using Power BI Desktop
-Interact with filters and visuals to explore insights
+Brand and Mobile Model
+Sales Amount and Quantity Sold
+Customer Information (Age, Ratings)
+Payment Method (UPI, Debit Card, Credit Card, Cash)
+Transaction Details (Date, City, Transaction ID)
+### Key Insights
+Top-performing brands and models contribute significantly to total revenue
+Certain cities show higher sales concentration
+Digital payment methods (UPI, cards) dominate transactions
+Sales patterns fluctuate across days and months
+Customer ratings provide insight into product satisfaction
+### Dashboard Preview
+
+(Add your screenshot here)
